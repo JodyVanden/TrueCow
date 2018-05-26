@@ -3,11 +3,12 @@
   display: flex;
   justify-content: space-around;
   align-items: center;
-  background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), image-url("agriculture-animal-bull-382166.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, .5), rgba(0,0,0,0.3)), image-url("action-adult-blur-620335.jpg");
   background-size: cover;
   background-position: center;
+  /*background:linear-gradient(rgba(212, 225, 237, 1), rgba(255, 255, 255, 1));*/
   h1 {
-    color: white;
+    color: #666565;
     font-weight: bold;
     font-size: 45px;
   }
@@ -29,6 +30,6 @@
   display: flex;
   justify-content: space-around;
   align-items: center;
-  padding: 150px;
+  padding: 50px;
 
 }
