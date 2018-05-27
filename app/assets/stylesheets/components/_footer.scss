@@ -10,17 +10,24 @@
 .card-footer{
   text-align: center;
   margin: 0 auto;
+  border-radius: 50px;
 }
 
 .footer-linkedin{
   color: white;
   text-decoration: none;
-
   a{
     margin-top: 10px;
   }
 }
 
+.footer-linkedin:hover{
+  text-decoration: none;
+}
 .fab{
   padding: 5px;
+}
+
+.circular-image{
+  border-radius: 50%;
 }
