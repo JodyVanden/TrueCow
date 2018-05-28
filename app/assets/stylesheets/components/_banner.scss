@@ -3,7 +3,7 @@
   display: flex;
   justify-content: space-around;
   align-items: center;
-  background-image: linear-gradient(rgba(0, 0, 0, .5), rgba(0,0,0,0.3)), image-url("Image-driving.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, .5), rgba(0,0,0,0.3)), url("http://res.cloudinary.com/dqsfxxmi7/image/upload/fl_progressive/action-adult-blur-620335_old_fq7k6s.jpg");
   background-size: cover;
   background-position: center;
   /*background:linear-gradient(rgba(212, 225, 237, 1), rgba(255, 255, 255, 1));*/
@@ -63,7 +63,7 @@
 }
 
 .banner-survey{
-  background-image: linear-gradient(rgba(0, 0, 0, .5), rgba(0,0,0,0.3)), image-url("van-vw-travel-trip-594384");
+  background-image: linear-gradient(rgba(0, 0, 0, .5), rgba(0,0,0,0.3)), url("http://res.cloudinary.com/dqsfxxmi7/image/upload/fl_progressive/van-vw-travel-trip-594384_aah1r7.jpg");
   color: white;
     background-position: center;
 
