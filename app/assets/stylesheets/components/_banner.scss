@@ -43,7 +43,10 @@
   padding-bottom: 90px;
 }
 .banner-truecow{
-  background-color:  #bfbfbf;
+  background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(0,0,0,0.4)), url("http://res.cloudinary.com/dqsfxxmi7/image/upload/fl_progressive/arms-blond-car-720815_ciax9s.jpg");
+  /* background-color:  #bfbfbf; */
+  background-size: cover;
+  background-position: center;
   color: white;
   text-align: center;
   padding: 50px;
